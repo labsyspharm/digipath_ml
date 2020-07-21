@@ -20,6 +20,32 @@ Selection criteria:
 ### Compact Course on Deep Learning for Digital Pathology and Inverse Problems
 * [GitHub](https://github.com/oterobaguer/rtg-pi3-deep-learning)
 
+### DigiPathAI
+* seems like yet-another solution
+* [GitHub](https://github.com/haranrk/DigiPathAI)
+
+### PySlide
+* seems like yet-another solution
+* [GitHub](https://github.com/PingjunChen/pyslide)
+
+### HistoLab
+* a library?
+* [GitHub](https://github.com/histolab/histolab)
+
+### BIRL: Benchmark on Image Registration methods with Landmark validation
+* [GitHub](https://github.com/Borda/BIRL)
+
+### Evaluation platform
+* [GitHub](https://github.com/DIDSR/eeDAP)
+
+### SlideSlicer
+* yet-another IO solution?
+* [GitHub](https://github.com/DSLituiev/slideslicer)
+
+### FocusLiteNN
+* out-of-focus solution
+* [GitHub](https://github.com/icbcbicc/FocusLiteNN)
+
 ## Integrated solutions for digital pathology with machine/deep learning features
 
 ### QuPath
