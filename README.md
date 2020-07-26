@@ -13,6 +13,9 @@ Selection criteria:
 * [GitHub](https://github.com/mahdihosseini/ADP)
 * [website](http://www.dsp.utoronto.ca/projects/ADP/)
 
+### Kimia lab data and code
+* [website](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code/)
+
 ### PathFlowAI
 * [GitHub](https://github.com/jlevy44/PathFlowAI)
 * [paper](https://psb.stanford.edu/psb-online/proceedings/psb20/Levy.pdf)
